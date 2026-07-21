@@ -1,5 +1,5 @@
 ## 📖 About
 
-This repository documents my FastAPI learning journey. It contains code examples, practice exercises, experiments, and mini-projects as I learn FastAPI from the basics to advanced concepts.
+This repository is intended to be a one-stop resource for learning **FastAPI**. It contains organized notes, practical examples, mini-projects, and real-world implementations covering everything from the fundamentals to advanced backend development concepts.
 
-The purpose of this repository is to track my progress, reinforce my understanding of backend development, and build a collection of reusable FastAPI examples while following industry best practices.
+Whether you're a beginner or looking to refresh your knowledge, you'll find step-by-step explanations and code examples to help you along the way.
